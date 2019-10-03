@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="428504df-3f96-41df-a52b-cddc3079da19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter5/InstantCreditCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/HomeAreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/HomeAreaCalculatorRedo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/MonthConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/DayOfTheWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Grades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/LotteryTicket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,13 +50,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PhoneBillCalculator">
-    <configuration name="AverageTestScores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.AverageTestScores" />
+  <component name="RunManager" selected="Application.DayOfTheWeek">
+    <configuration name="DayOfTheWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.DayOfTheWeek" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.*" />
+          <option name="PATTERN" value="chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiceRollGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.DiceRollGame" />
+    <configuration name="Grades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.Grades" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.*" />
+          <option name="PATTERN" value="chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greetings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.Greetings" />
+    <configuration name="HomeAreaCalculatorRedo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.HomeAreaCalculatorRedo" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5.*" />
+          <option name="PATTERN" value="chapter6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstantCreditCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.InstantCreditCheck" />
+    <configuration name="LotteryTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.LotteryTicket" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5.*" />
+          <option name="PATTERN" value="chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneBillCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.PhoneBillCalculator" />
+    <configuration name="MonthConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.MonthConverter" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5.*" />
+          <option name="PATTERN" value="chapter6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PhoneBillCalculator" />
-        <item itemvalue="Application.InstantCreditCheck" />
-        <item itemvalue="Application.Greetings" />
-        <item itemvalue="Application.DiceRollGame" />
-        <item itemvalue="Application.AverageTestScores" />
+        <item itemvalue="Application.DayOfTheWeek" />
+        <item itemvalue="Application.Grades" />
+        <item itemvalue="Application.LotteryTicket" />
+        <item itemvalue="Application.MonthConverter" />
+        <item itemvalue="Application.HomeAreaCalculatorRedo" />
       </list>
     </recent_temporary>
   </component>
